@@ -52,6 +52,11 @@ i {
   background-color: #0d0d0d;
   display: flex;
 }
-/* #searchContainer {
-  display: none;
-} */
+
+@media (max-width: 576px) {
+  #rowData {
+    width: 80%;
+    margin: auto;
+  }
+}
+
