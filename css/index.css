@@ -55,7 +55,7 @@ i {
 
 @media (max-width: 576px) {
   #rowData {
-    width: 80%;
+    width: 75%;
     margin: auto;
   }
 }
