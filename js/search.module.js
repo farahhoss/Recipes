@@ -146,7 +146,7 @@ export class Search {
           <div class="col-md-6 ">
               <input id='input1' class="form-control bg-transparent text-white" type="text" placeholder="Search By Name">
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 my-3">
               <input id='input2'  maxlength="1" class="form-control bg-transparent text-white" type="text" placeholder="Search By First Letter">
           </div>
       </div>`;
