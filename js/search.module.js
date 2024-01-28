@@ -143,7 +143,7 @@ export class Search {
     console.log("serchh");
     searchContainer.innerHTML = `
       <div class="row py-4 ">
-          <div class="col-md-6 ">
+          <div class="col-md-6 my-3 ">
               <input id='input1' class="form-control bg-transparent text-white" type="text" placeholder="Search By Name">
           </div>
           <div class="col-md-6 my-3">
